@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tottara Dhanush</h1>
+<h1 align="center">Hi , I'm Tottara Dhanush</h1>
 <h3 align="center">A passionate Frontend developer,</h3>
 
 - 🌱 I’m currently learning **full stack developer**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **full stack development**
 
 - 📫 How to reach me **tottaradhanush51@gmail.com**
 
