@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Tottara Dhanush</h1>
 <h3 align="center">A passionate Frontend developer,</h3>
 
-- 🌱 I’m currently learning **full stack developer**
+-  I’m currently learning **full stack developer**
 
-- 💬 Ask me about **full stack development**
+-  Ask me about **full stack development**
 
-- 📫 How to reach me **tottaradhanush51@gmail.com**
+-  How to reach me **tottaradhanush51@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Np0D5in08LY1Ug_zOJheOH2qjwwyjlPw/view?usp=sharing](https://drive.google.com/file/d/1Np0D5in08LY1Ug_zOJheOH2qjwwyjlPw/view?usp=sharing)
+-  Know about my experiences [https://drive.google.com/file/d/1Np0D5in08LY1Ug_zOJheOH2qjwwyjlPw/view?usp=sharing](https://drive.google.com/file/d/1Np0D5in08LY1Ug_zOJheOH2qjwwyjlPw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
